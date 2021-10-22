@@ -1,3 +1,7 @@
+.head {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .body {
     background-color: powderblue;
 }
@@ -12,4 +16,12 @@
     padding:14px 16px;
     text-decoration: none;
     font-size: 17px;
+}
+.top_navigation a:hover {
+    background-color: salmon;
+    color: black;
+}
+.top_navigation a.active {
+    background-color: #04AA6D;
+    color: white;
 }
