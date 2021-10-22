@@ -25,3 +25,9 @@
     background-color: #04AA6D;
     color: white;
 }
+.body .p {
+    font-family: cursive;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+}
